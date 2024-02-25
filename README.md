@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Frontend, Machine learning, Data Science, UI/UX**
 
-- 📫 How to reach me **devadharshinik2012@gmail.com**
+- 📫 Reach me at **devadharshinik2012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
